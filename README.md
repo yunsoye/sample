@@ -1,2 +1,2 @@
-# sample
-github연결
+# sample 
+github연결 hello world
